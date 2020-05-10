@@ -2,8 +2,7 @@
 
 Based on the Belgian Golden Ale recipe on [homebrewanswers.com](https://homebrewanswers.com/complete-guide-grain-brewing-beginner/)
 
-Recipe scaled to use 2kg of pilsner malt because that was a convenient size to purchase. 11.5 litres also fits well 
-in the stock pot.
+Recipe scaled to use 2kg of pilsner malt because that was a convenient size to purchase. 11.5 litres also fits well in the stock pot.
 
 ## Ingredients
 
@@ -28,12 +27,13 @@ in the stock pot.
 
 Original recipe suggested Munich malt. This was not available on eBay at the time so was substituted with Amber malt.
 
-## Alcohol
+## Hydrometer readings
 
-Start specific gravity: 1.405
-
-Final specific gravity: 
-
-Alcoholic strength: 
+| Date       | Specific gravity |
+| ---------- | ---------------- |
+| 2020-04-26 | 1.045            |
+| 2020-05-10 | 1.009            |
 
 ## Tasting notes
+
+2020-05-10: Tasted ok. Flavour not particularly strong. Hoping will develop a bit further in final stage of fermentation.
