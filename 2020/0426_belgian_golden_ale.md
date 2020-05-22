@@ -33,7 +33,17 @@ Original recipe suggested Munich malt. This was not available on eBay at the tim
 | ---------- | ---------------- |
 | 2020-04-26 | 1.045            |
 | 2020-05-10 | 1.009            |
+| 2020-05-20 | 1.009            |
+
+4.7% alcohol
 
 ## Tasting notes
 
 2020-05-10: Tasted ok. Flavour not particularly strong. Hoping will develop a bit further in final stage of fermentation.
+
+2020-05-20: Really pleased with how this has turned out. Peppery aroma and quite a light body. Very drinkable
+
+## Other notes
+
+* Auto-syphon worked really well
+* Could do with a bottling-wand
