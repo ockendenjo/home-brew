@@ -30,7 +30,12 @@ Recipe scaled to use 2kg of Maris Otter pale malt
 | 2020-06-09 | 1.012            |
 | 2020-06-12 | 1.011            |
 
+5.4% alcohol
+
 ## Tasting notes
+
+Added 2g (Mum's smallest white measuring spoon) brewing sugar to each bottle. This was too much. The beer is too fizzy,
+a bit like a lager. The flavour is nice, but the fizz ruins it.
 
 ## Other notes
 
