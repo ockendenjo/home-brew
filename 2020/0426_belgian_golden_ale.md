@@ -43,6 +43,8 @@ Original recipe suggested Munich malt. This was not available on eBay at the tim
 
 2020-05-20: Really pleased with how this has turned out. Peppery aroma and quite a light body. Very drinkable
 
+2020-08-24 Has probably improved a bit more with age. Still very drinkable
+
 ## Other notes
 
 * Auto-syphon worked really well
