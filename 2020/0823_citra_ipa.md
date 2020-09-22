@@ -29,6 +29,7 @@ More water added to reduce alcohol percentage. I thought 9% alcohol to be too st
 | ---------- | ---------------- |
 | 2020-08-23 | 1.058            |
 | 2020-08-28 | 1.010            |
+| 2020-09-05 | 1.008            |
 
 ## Tasting notes
 
@@ -36,3 +37,7 @@ More water added to reduce alcohol percentage. I thought 9% alcohol to be too st
 
 Dry hops added 2020-08-28 to fermentation bucket. Specific gravity had dropped lower than the expected value of 1.018,
 but I did also have a lower starting value.
+
+2020-09-05 Racked to demijohn's 
+
+2020-09-13 Added sugar (45g/10L) and bottled. Some beer was diluted before bottling to reduce strength. 
