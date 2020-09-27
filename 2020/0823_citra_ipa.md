@@ -31,7 +31,12 @@ More water added to reduce alcohol percentage. I thought 9% alcohol to be too st
 | 2020-08-28 | 1.010            |
 | 2020-09-05 | 1.008            |
 
+6.5% alcohol
+
 ## Tasting notes
+
+2020-09-25 Bottle taken from fridge initially had little discernible taste. As it warmed up the flavour became more 
+apparent. Slightly sweet but very drinkable.
 
 ## Other notes
 
@@ -40,4 +45,4 @@ but I did also have a lower starting value.
 
 2020-09-05 Racked to demijohn's 
 
-2020-09-13 Added sugar (45g/10L) and bottled. Some beer was diluted before bottling to reduce strength. 
+2020-09-13 Added sugar (45g/10L) and bottled. Some beer diluted before bottling to reduce strength to approx 4%. 
