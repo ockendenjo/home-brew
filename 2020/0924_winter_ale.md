@@ -38,3 +38,16 @@ racked to fermenter after cooling. Bottom section containing some trub transferr
 
 2020-09-30 Wort in demijohn started growing white spots (natural yeast). Left to ferment rather than racking back into
 fermenter.
+
+2020-10-28 I don't think the alcohol percentage is correct. I seem to remember adding some extra water to the fermenter.
+Unfortunately I don't seem to have a record of how much, or when it was added relative to taking the initial specific
+gravity reading. The beer tastes too strong and will need to be diluted a bit. The flavour is not particularly nice -
+I will try to alter the flavour with further spice additions.
+
+## Flavour adjustment
+
+The following ingredients have been placed in a glass jar with roughly double the volume of cherry brandy (didn't have any vodka).
+
+* 1/2 tsp cinammon
+* 1/4 tsp ginger
+* 1/8 tsp mixed spice
