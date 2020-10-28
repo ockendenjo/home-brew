@@ -25,6 +25,9 @@ Bought K9 Winter Warmer in December 2019 which I quite liked. Trying to produce 
 | Date       | Specific gravity |
 | ---------- | ---------------- |
 | 2020-09-24 | 1.070            |
+| 2020-10-20 | 1.010            |
+
+7.9% alcohol
 
 ## Tasting notes
 
@@ -32,3 +35,6 @@ Bought K9 Winter Warmer in December 2019 which I quite liked. Trying to produce 
 
 2020-09-24 Vanilla extract formed blobs and sank to bottom of the pan. Unsure how much flavour transferred. Most wort
 racked to fermenter after cooling. Bottom section containing some trub transferred to demijohn and left to settle.
+
+2020-09-30 Wort in demijohn started growing white spots (natural yeast). Left to ferment rather than racking back into
+fermenter.
