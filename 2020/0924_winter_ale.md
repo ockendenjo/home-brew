@@ -51,3 +51,10 @@ The following ingredients have been placed in a glass jar with roughly double th
 * 1/2 tsp cinammon
 * 1/4 tsp ginger
 * 1/8 tsp mixed spice
+
+Adding this to the beer did not improve the flavour
+
+## Disposal
+
+Something when wrong during the fermentation process. I don't know whether some bacteria got in, whether something 
+wasn't properly cleaned, or whether too much cardamom was added. The beer didn't taste nice and was disposed of.
