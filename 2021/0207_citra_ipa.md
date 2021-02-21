@@ -24,3 +24,14 @@ Another batch of the beer I made in August 2020
 | Date       | Specific gravity |
 | ---------- | ---------------- |
 | 2021-02-08 | 1.052            |
+| 2020-02-14 | 1.022            |
+| 2020-02-21 | 1.009            |
+
+5.6% alcohol
+
+## Other notes
+
+This took a week longer for the fermentation to complete. Probably due to the house generally being a bit 
+colder at this time of year.
+
+Dry hops added 2020-02-14 to fermentation bucket. Removed 2020-02-21. 
