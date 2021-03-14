@@ -49,6 +49,7 @@ Total beer volume is <?> litres:
 | Date       | Specific gravity |
 | ---------- | ---------------- |
 | 2021-03-07 | 1.046            |
+| 2021-03-14 | 1.010            |
 
 <?>% alcohol
 
