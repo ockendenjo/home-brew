@@ -1,6 +1,6 @@
 # Black Sheep Bitter
 
-Based on the recipe at <INSERT LINK>
+Based on the recipe on [brewersfriend.com](https://www.brewersfriend.com/homebrew/recipe/view/277489/black-sheep-bitter-clone)
 
 ## Ingredients
 
@@ -32,13 +32,13 @@ Based on the recipe at <INSERT LINK>
 | 25 g     | Fuggles hops            | £1.40  |
 |          | ***TOTAL***             | £15.29 |
 
-Total beer volume is <?> litres:
+Total beer volume is 9.5 litres:
 
 | Quantity | Cost  |
 | -------- | ----- |
-| Pint     | <?> |
-| 500ml    | <?> |
-| 330ml    | <?> |
+| Pint     | £0.91 |
+| 500ml    | £0.80 |
+| 330ml    | £0.53 |
 
 ### Water
 
@@ -50,7 +50,10 @@ Total beer volume is <?> litres:
 | ---------- | ---------------- |
 | 2021-03-07 | 1.046            |
 | 2021-03-14 | 1.010            |
+| 2021-03-21 | 1.010            |
 
-<?>% alcohol
+4.7% alcohol
 
 ## Other notes
+
+Tastes nice
