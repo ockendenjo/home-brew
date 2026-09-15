@@ -40,7 +40,9 @@ Based on the recipe at [brewersfriend.com](https://www.brewersfriend.com/homebre
 | Date       | Reading |
 |------------|---------|
 | 2026-07-12 | 1.034   |
-|            |         |
+| 2026-08-01 | 1.010   |
+
+3.2% ABV
 
 ## Other notes
 
