@@ -1,5 +1,12 @@
 # Pricing
 
+## 2021-04-03
+
+| Ingredient         | Quantity | Price | Price / kg |
+|--------------------|----------|-------|-----------:|
+| Munich Malt        | 100g     | £1.99 |     £19.90 |
+| Crystal Light Malt | 500g     | £4.50 |      £9.00 |
+
 ## 2026-07-05
 
 | Ingredient       | Quantity |  Price | Price / kg |
