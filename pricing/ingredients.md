@@ -8,6 +8,13 @@
 | Crystal Light Malt | 500g     | £4.50  |      £9.00 |      |
 | Pilsner Malt       | 5kg      | £15.95 |      £3.19 |      |
 | Torrified wheat    | 250g     | £3.25  |     £13.00 | y    |
+| Saaz hops          | 50g      | £3.30  |     £66.00 | y    |
+
+## 2021-05-04
+
+| Ingredient | Quantity | Price | Price / kg | Used |
+|------------|----------|-------|-----------:|------|
+| Saaz hops  | 50 g     | £7.40 |    £148.00 |      |
 
 ## 2026-07-05
 
