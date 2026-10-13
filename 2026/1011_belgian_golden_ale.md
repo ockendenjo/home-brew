@@ -38,12 +38,12 @@ Total beer volume is ? litres:
 
 ## Hydrometer readings
 
-| Date       | Reading | Note |
-|------------|---------|------|
-| 2026-09-13 |         |      |
-| 2026-09-14 |         |      |
-| 2026-10-03 |         |      |
+| Date       | Reading | Note          |
+|------------|---------|---------------|
+| 2026-10-12 | 1.055   | Pre-dilution  |
+| 2026-10-12 | ?       | Post-dilution |
+| ?          | ?       | Final         |
 
 ## Other notes
 
-- TODO
+- 2L water added to target 5.2% ABV
